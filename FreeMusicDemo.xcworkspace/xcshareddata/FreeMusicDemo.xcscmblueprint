@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9fd4fbf8-fc6e-5f40-a939-7dae159db4bd++6631",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9fd4fbf8-fc6e-5f40-a939-7dae159db4bd++6631" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9fd4fbf8-fc6e-5f40-a939-7dae159db4bd++6631" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7EE81436-6770-48BB-8504-67D75A107BBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9fd4fbf8-fc6e-5f40-a939-7dae159db4bd++6631" : "iOS%E6%96%87%E4%BB%B6\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FreeMusicDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FreeMusicDemo\/FreeMusicDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/182.254.133.58:8443\/svn\/gamegorupbuy",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9fd4fbf8-fc6e-5f40-a939-7dae159db4bd++6631"
+    }
+  ]
+}
